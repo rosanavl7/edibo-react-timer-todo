@@ -1,0 +1,22 @@
+body{
+    background-color: #E0FBFC  !important;
+}
+
+div.timer{
+    margin-left:10%;
+}
+
+div.todo-list{
+    margin-top: 20%;
+}
+.App{
+
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button{
+    margin-left:auto;
+
+}

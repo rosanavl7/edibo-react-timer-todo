@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "todo": "PASEAR AL PERRO",
+      "author": " Rosana ",
+      "done": true,
+      "id": 1
+    },
+    {
+      "todo": "HACER LA CENA",
+      "author": " Rosana ",
+      "done": true,
+      "id": 2
+    },
+    {
+      "todo": "HACER LA CAMA",
+      "author": " Rosana ",
+      "done": false,
+      "id": 3
+    }
+  ]
+}
